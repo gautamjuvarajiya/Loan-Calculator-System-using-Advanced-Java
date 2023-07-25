@@ -5,6 +5,7 @@ Write "javac filename.java"
 
 To Run the Java Applet File :
 write "appletviewer filename.java"
+(First Compile then Run this File.)
 
 **Introduction :**
 
