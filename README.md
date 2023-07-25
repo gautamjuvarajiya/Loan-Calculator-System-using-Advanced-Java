@@ -1,5 +1,11 @@
 # Loan-Calculator-System-using-Advanced-Java
 
+To Compile the Java Applet File : 
+Write "javac filename.java"
+
+To Run the Java Applet File :
+write "appletviewer filename.java"
+
 **Introduction :**
 
 I have made this project on Loan Calculator System. This Project is helpful in calculating the loan amount with their total interest to be paid and with the variable rate of interests and various banks giving each and every details about loan with tenure period (duration). 
@@ -19,5 +25,6 @@ The feature of this simple java application is basically the calculating the loa
 
 This project “Loan Calculator System” uses the Swing Components of JApplet in Advanced Java Programming language. Applets are dynamic and interactive programs. Applets are usually small in size and facilitate event-driven applications that can be transported over the web. This Project fulfils the need of the user which basically every user need like hassle free calculations.
 
+***NOTE :** The names of the bank used in this application are just for educational purpose and for making it easier for learners to understand the project. No other Objective is intented.**
 
 Happy Coding! :)
