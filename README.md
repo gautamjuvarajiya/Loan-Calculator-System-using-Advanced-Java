@@ -18,8 +18,8 @@ Normally people uses various website to find the perfect calculator of their nee
 they will get the calculator they need or any other.
 
 
-**Solution :
-**
+**Solution :**
+
 The feature of this simple java application is basically the calculating the loan details of the user who inputs their data. This is very much user-friendly that user just need to enter the data and click on the one button ‘Calculate’ Button and the details will be provided to user within the fraction of seconds. The simple java application uses the swing components which are light-weight, rich-controls and highly customizable. Swing API is a set of extensible GUI Components to ease the developer's life to create JAVA based Front End/GUI Applications.
 
 **Conclusion :**
