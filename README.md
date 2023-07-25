@@ -26,6 +26,6 @@ The feature of this simple java application is basically the calculating the loa
 
 This project “Loan Calculator System” uses the Swing Components of JApplet in Advanced Java Programming language. Applets are dynamic and interactive programs. Applets are usually small in size and facilitate event-driven applications that can be transported over the web. This Project fulfils the need of the user which basically every user need like hassle free calculations.
 
-***NOTE :** The names of the bank used in this application are only just for educational purpose and for making it easier for learners to understand the project. Also all the interest rate values are imaginary, it might vary in real.**
+* ***NOTE :** The names of the bank used in this application are only just for educational purpose and for making it easier for learners to understand the project. Also all the interest rate values are imaginary, it might vary in real.*
 
 Happy Coding! :)
